@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    background-image: url(/forest\ \(2\).jpg);
+    background-size: cover;
+}
+.col{
+    display: flex;
+    justify-content: space-evenly;
+}
+.imgdiv{
+    margin-left: 14px;
+    margin-top: 69px;
+    border-radius: 13px;
+    height: 440px;
+    width: 310px;
+}
+.buttons{
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 0px;
+    height: auto;
+    width: auto;
+    margin-top: 70px;
+}
