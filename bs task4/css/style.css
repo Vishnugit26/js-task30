@@ -1,0 +1,12 @@
+.sample_1{
+    font-size: 5rem !important; 
+    font-style: italic;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+@media screen and (max-width:900px) {
+    .sample_1{
+        font-size: 28px !important;
+    }
+}
