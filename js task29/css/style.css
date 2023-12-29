@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+}
+
+.form{
+    text-align: center;
+    color: white;
+}
+.license{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    padding: 8px;
+}
+.licenset{
+    padding: 40px;
+    width: 646px;
+    background-color: coral;
+    text-align: center;
+    font-size: 39px;
+    border: 0;
+    margin: auto;
+}
+.name{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 38px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.namet{
+    padding: 16px;
+    width: 407px;
+    border-radius: 28px;
+    background-color: rgb(219, 151, 126);
+    border: 0px;
+    text-align: center;
+    font-size: 45px;
+}
+.dob{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 38px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.dobt{
+    padding: 16px;
+    width: 407px;
+    border-radius: 28px;
+    background-color: rgb(219, 151, 126);
+    border: 0px;
+    text-align: center;
+    font-size: 45px;
+}
+.generate{
+    padding: 23px;
+    border-radius: 71px;
+    background-color: white;
+    border: 0px;
+    margin-top: 22px;
+    font-size: 32px;
+}
